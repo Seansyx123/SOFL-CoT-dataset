@@ -79,5 +79,4 @@ We also provide a converted version of the [MBPP dataset](https://github.com/goo
   - `text`: Task description (requirement)
   - `code`: Java-style code converted from Python
 
-Note: Some loop structures may include placeholder comments such as `// [manual conversion needed for loop]` and require manual refinement for full Java compilation.
 
