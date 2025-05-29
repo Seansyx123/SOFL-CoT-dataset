@@ -77,7 +77,7 @@ We also provide a converted version of the [MBPP dataset](https://github.com/goo
 - 🧾 Fields:
   - `task_id`: Original MBPP task ID
   - `text`: Task description (requirement)
-  - `code`: Java-style pseudo-code converted from Python
+  - `code`: Java-style code converted from Python
 
 Note: Some loop structures may include placeholder comments such as `// [manual conversion needed for loop]` and require manual refinement for full Java compilation.
 
